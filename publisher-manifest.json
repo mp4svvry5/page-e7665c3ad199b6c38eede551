@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c403ecffd1efc299ae3fc451",
+  "owner": "mp4svvry5",
+  "repo": "page-e7665c3ad199b6c38eede551",
+  "title": "CloudRocket",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e7665c3ad199b6c38eede551",
+      "a": "CloudRocket",
+      "b": "2027最新官网",
+      "entity": "CloudRocket",
+      "brand": "CloudRocket",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "aed48fe36046fab64927b3736a3420e49421e5452cbfaf1f7e43fc7f0892916f",
+      "content": {
+        "primary_entity": "CloudRocket",
+        "keyword1": "CloudRocket",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，适合需要稳定海外网络访问的用户。CloudRocket 提供基础版、旗舰版与团队版三档方案，月付与年付灵活切换，年付可节省两个月费用。基础版每月 100GB 流量，支持 3 台设备同时在线；旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量，支持 20 台设备，提供 VIP 专属高带宽节点与企业定制路由。订阅导入后可在客户端中查看节点延迟与流量使用情况，按设备数量与月流量需求选择对应版本即可。",
+          "AI_HERO_SUBTITLE": "稳定加速，按需选套餐",
+          "AI_HERO_INTRO": "CloudRocket 面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅。套餐按每月流量与同时在线设备数区分，旗舰版以上包含流媒体解锁与专线优化。选择时先确认常用设备数量，再对比月流量上限，最后根据是否需要专线游戏加速决定版本。",
+          "AI_VISUAL_TITLE": "CloudRocket 海外加速",
+          "AI_HIGHLIGHT_1": "三档套餐可选，年付更省",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "设备数从 3 台到 20 台",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期三个角度选择 CloudRocket 版本。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。手机、平板和电脑都计入设备数，家庭或小型团队建议直接考虑团队版。",
+          "AI_FEATURE_TITLE_2": "月流量与线路差异",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB 普通线路；旗舰版每月 300GB 并含 IPLC 专线节点；团队版每月 1000GB 配 VIP 高带宽节点。流量需求大的用户优先看后两档。",
+          "AI_FEATURE_TITLE_3": "年付与月付周期",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150/年，旗舰版年付 ¥350/年，团队版年付 ¥850/年，均相当于按十个月计费。短期使用可选月付，长期使用年付更划算。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "手机、平板与电脑对应的客户端各不相同，订阅导入方式也随客户端而异。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "CloudRocket 现有三档套餐：基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月。年付分别 ¥150、¥350、¥850。对比时重点看每月流量、在线设备数和是否含专线节点。",
+          "AI_GUIDE_TITLE": "三步完成使用配置",
+          "AI_GUIDE_INTRO": "从选择服务到配置订阅，按顺序完成三步即可开始使用 CloudRocket。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版与团队版中选定一档，并决定月付或年付。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本能安装所选客户端，同时留意同时在线设备数上限，避免超出套餐限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所用客户端文档导入订阅地址，完成后刷新节点列表，选择延迟较低的节点开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更稳",
+          "AI_CLOSING_TEXT": "对照设备数量和月流量需求，从三档套餐中选出适合自己的一档即可开始配置。",
+          "AI_FAQ_ANSWER_1": "按使用设备数选：1 至 3 台设备选基础版，每月 15 元含 100GB 流量；4 至 5 台设备或有游戏加速需求选旗舰版，每月 35 元含 300GB 流量和 IPLC 专线；6 台以上或团队使用选团队版，每月 85 元含 1000GB 流量和 20 台设备额度。",
+          "AI_FAQ_ANSWER_2": "不限制只在单一设备使用，但各套餐有同时在线设备数上限。基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台。可以在多台设备安装客户端，同时在线数量不超过套餐上限即可。",
+          "AI_FAQ_ANSWER_3": "在订阅管理或客户端中导入订阅链接即可，常用客户端都支持订阅导入。不同设备使用的客户端不同，查看对应客户端的导入说明按步骤操作，完成后节点列表会自动更新。",
+          "AI_FAQ_ANSWER_4": "月付适合短期体验，年付总价更低。基础版年付 150 元、旗舰版年付 350 元、团队版年付 850 元，相比月付分别节省两个月左右费用。使用周期长建议选年付，需要灵活调整可先选月付。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含全节点原生流媒体解锁和 IPLC 专线游戏加速优化，适合经常看流媒体或玩外服游戏的用户。团队版提供 VIP 专属高带宽节点和企业定制路由，适合高带宽或多人协同场景。",
+          "AI_FAQ_QUESTION_1": "CloudRocket 不同套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备使用？",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见使用问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jpfun.cn",
+    "host": "jpfun.cn"
+  },
+  "file_hashes": {
+    "index.html": "5b926d2a004bd15744a8be1f68a5131233766603bb521ef29e379a4b28c47b21",
+    "sitemap.xml": "a336aa39418011540e759d99f4d382e8237216e25e46e4062e97a91db0bd808a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "010f8b2891ff883952c5c67ac9c2c3ef71ffcbc6eff19cd6d3764b0454818056",
+    "robots.txt": "fac7ad2a5b00f935a4eb8d2a6eeee57d19a2b8f1677b4a94e2da47124df18d2d",
+    "7a1d34d372078312d0d7b0194a7ba983.txt": "063dc7ee9d380b5be6f7d1153ba89e6e39cdff269f9e9a79bb4a48e0b7dd3b98"
+  },
+  "revision": "d595946e0c5ad9760a35da1499d01e6ca93437965bad1de6b18e544fa457d29b"
+}
